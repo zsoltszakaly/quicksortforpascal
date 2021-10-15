@@ -91,4 +91,3 @@ procedure AnySort(var aArray; aRecordCount : integer; aStride: integer; aCompare
   end;
 
 end.
-
