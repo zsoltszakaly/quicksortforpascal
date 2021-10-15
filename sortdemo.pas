@@ -73,4 +73,3 @@ for i := 0 to 9 do
   with Users[i] do
     Writeln(Name,' ',Score:6:4);
 end.
-
